@@ -10,3 +10,5 @@ console.log(hypesquad.changer("House", "Account Token"))
 //Hypesquad Houses: Bravery, Brilliance, Balance, and also you can make it Random
 ```
 
+
+Discord: <iframe src="https://discordapp.com/widget?id=631072660872495104&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
