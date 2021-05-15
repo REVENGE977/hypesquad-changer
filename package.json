@@ -1,0 +1,14 @@
+{
+  "name": "hypesquad-changer",
+  "version": "1.1.0",
+  "description": "A JavaScript module that changes the hypesquad house of the token linked account.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
